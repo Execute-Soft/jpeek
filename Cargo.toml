@@ -1,0 +1,17 @@
+[package]
+name = "jpeek"
+version = "0.1.0"
+edition = "2024"
+authors = ["Morshedul Munna <morshedulmunna1@gmail.com>"]
+description = "A simple tool to peek into your JWT token & Decode it"
+license = "MIT"
+repository = "https://github.com/morshedul-munna/jpeek"
+readme = "README.md"
+
+[dependencies]
+clap = { version = "4.5.27", features = ["derive"] }
+colored = "2.0.0"
+base64 = "0.21.0"
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+chrono = "0.4"
