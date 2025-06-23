@@ -1,11 +1,11 @@
 [package]
 name = "jpeek"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Morshedul Munna <morshedulmunna1@gmail.com>"]
 description = "A simple tool to peek into your JWT token & Decode it"
 license = "MIT"
-repository = "https://github.com/morshedul-munna/jpeek"
+repository = "https://github.com/Execute-Soft/jpeek.git"
 readme = "README.md"
 
 [dependencies]
