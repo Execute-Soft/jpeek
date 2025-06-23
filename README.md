@@ -1,6 +1,6 @@
 # 🔐 jpeek - JWT Token Decoder
 
-A simple and elegant command-line tool to peek into your JWT tokens and decode them with beautiful formatting.
+[![Support me](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/moshedulmunna)
 
 [![Rust](https://img.shields.io/badge/Rust-1.86.0+-orange.svg)](https://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
